@@ -22,6 +22,17 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.13.0",
+          "buildVersion": "14",
+          "marketingVersion": "0.13.0",
+          "date": "2026-09-12T20:22:34Z",
+          "localizedDescription": "Verified Bug-Bounty Companion 0.13.0 build 14.",
+          "downloadURL": "https://axisman3r.github.io/bug-bounty-ios-updates/releases/0.13.0/14/BugBountyCompanion-0.13.0.ipa",
+          "size": 3333525,
+          "sha256": "6f69dbc8603c74bb7dab05226fb1966071e35374e67ec4816b0291337ca0fa18",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.12.1",
           "buildVersion": "13",
           "marketingVersion": "0.12.1",
