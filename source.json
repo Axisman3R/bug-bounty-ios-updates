@@ -1,0 +1,46 @@
+{
+  "name": "Bug-Bounty Companion Updates",
+  "identifier": "com.axisman3r.bugbounty.updates",
+  "subtitle": "Verified native iPhone companion builds",
+  "description": "Update-only AltStore Classic feed for the Bug-Bounty PC companion. This feed contains compiled unsigned IPA builds and public metadata only.",
+  "iconURL": "https://axisman3r.github.io/bug-bounty-ios-updates/assets/AppIcon-1024.png",
+  "website": "https://axisman3r.github.io/bug-bounty-ios-updates/",
+  "tintColor": "16D9E3",
+  "featuredApps": [
+    "local.bugbounty.companion"
+  ],
+  "apps": [
+    {
+      "name": "Bug-Bounty",
+      "bundleIdentifier": "local.bugbounty.companion",
+      "developerName": "Axisman3R",
+      "subtitle": "Native companion for Bug-Bounty Mission Control",
+      "localizedDescription": "Connects to an explicitly started Bug-Bounty PC bridge on your trusted local network. View live work, reports, guidelines, campaigns and model status; create local drafts; and pair by scanning the PC QR code. The phone cannot execute targets, run models, expose provider credentials, approve outbound content or submit reports.",
+      "iconURL": "https://axisman3r.github.io/bug-bounty-ios-updates/assets/AppIcon-1024.png",
+      "tintColor": "16D9E3",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.12.0",
+          "buildVersion": "12",
+          "marketingVersion": "0.12.0",
+          "date": "2026-09-12T18:56:11Z",
+          "localizedDescription": "Adds secure QR pairing, a native Mission Control app icon, and the complete paired companion experience.",
+          "downloadURL": "https://axisman3r.github.io/bug-bounty-ios-updates/releases/0.12.0/12/BugBountyCompanion-0.12.0.ipa",
+          "size": 3252814,
+          "sha256": "116defd0f5f68baafae112f40a51d1cba2c8460c491b2d8241d751d054d6c130",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan the one-time pairing QR code shown by your Bug-Bounty PC.",
+          "NSLocalNetworkUsageDescription": "Connect securely to your explicitly started Bug-Bounty companion bridge on this PC."
+        }
+      }
+    }
+  ],
+  "news": []
+}

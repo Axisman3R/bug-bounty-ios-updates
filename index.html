@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Bug-Bounty Companion Updates</title>
+  <style>
+    :root { color-scheme: dark; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 24px; color: #eafcff; background: radial-gradient(circle at 50% 0, #12394b, #050b13 54%); }
+    main { width: min(620px, 100%); padding: 34px; border: 1px solid #1f6172; border-radius: 24px; background: rgba(7, 20, 31, .94); box-shadow: 0 24px 90px rgba(0, 217, 227, .13); }
+    img { width: 112px; height: 112px; border-radius: 25px; box-shadow: 0 0 32px rgba(22, 217, 227, .24); }
+    h1 { margin: 22px 0 10px; font-size: clamp(28px, 7vw, 42px); }
+    p { color: #b6d3da; line-height: 1.55; }
+    a.button { display: block; margin-top: 24px; padding: 16px 20px; border-radius: 14px; text-align: center; text-decoration: none; font-weight: 750; color: #021014; background: linear-gradient(135deg, #16d9e3, #64f0cf); }
+    a.feed { display: block; margin-top: 16px; color: #77eaf0; overflow-wrap: anywhere; }
+    small { display: block; margin-top: 24px; color: #7897a0; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <main>
+    <img src="assets/AppIcon-1024.png" alt="Bug-Bounty app icon">
+    <h1>Bug-Bounty Companion</h1>
+    <p>Add this update channel once. Future native releases will appear as an Update inside AltStore Classic without downloading and extracting another ZIP.</p>
+    <a class="button" href="altstore-classic://source?url=https%3A%2F%2Faxisman3r.github.io%2Fbug-bounty-ios-updates%2Fsource.json">Add to AltStore Classic</a>
+    <a class="feed" href="source.json">View source feed</a>
+    <small>AltStore must still sign each update through AltServer. This public channel contains compiled unsigned builds and update metadata only, never workspace data or credentials.</small>
+  </main>
+</body>
+</html>
