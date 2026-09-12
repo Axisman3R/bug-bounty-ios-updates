@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "bundleIdentifier": "local.bugbounty.companion",
+  "version": "0.12.1",
+  "buildVersion": "13",
+  "ipaSha256": "dca8824b1d386a8c4c5d6545c82a63b064e884670fd52caa7bbdea2a79bf588d",
+  "ipaSize": 3252814,
+  "sourceRepository": "Axisman3R/bug-bounty-ios-companion",
+  "sourceCommit": "d66a4c7b53162c3357400c6d2acb7f30afb8a1ca",
+  "workflowRunURL": "https://github.com/Axisman3R/bug-bounty-ios-companion/actions/runs/34714122884",
+  "builtAt": "2026-09-12T19:27:44Z"
+}
