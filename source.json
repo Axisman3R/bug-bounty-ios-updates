@@ -22,6 +22,17 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.14.0",
+          "buildVersion": "15",
+          "marketingVersion": "0.14.0",
+          "date": "2026-09-12T21:27:42Z",
+          "localizedDescription": "Start and follow prepared multi-model hunt pipelines from the iPhone companion.",
+          "downloadURL": "https://axisman3r.github.io/bug-bounty-ios-updates/releases/0.14.0/15/BugBountyCompanion-0.14.0.ipa",
+          "size": 3383249,
+          "sha256": "1969b15979c522393b71fd549097e7687a82819bbe10e9caf6b96532b9bb83b3",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.13.0",
           "buildVersion": "14",
           "marketingVersion": "0.13.0",

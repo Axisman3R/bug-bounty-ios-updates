@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "bundleIdentifier": "local.bugbounty.companion",
-  "version": "0.13.0",
-  "buildVersion": "14",
-  "ipaSha256": "6f69dbc8603c74bb7dab05226fb1966071e35374e67ec4816b0291337ca0fa18",
-  "ipaSize": 3333525,
+  "version": "0.14.0",
+  "buildVersion": "15",
+  "ipaSha256": "1969b15979c522393b71fd549097e7687a82819bbe10e9caf6b96532b9bb83b3",
+  "ipaSize": 3383249,
   "sourceRepository": "Axisman3R/bug-bounty-ios-companion",
-  "sourceCommit": "85f41325841277dc1606246dd9a1b8f2b8b947d7",
-  "workflowRunURL": "https://github.com/Axisman3R/bug-bounty-ios-companion/actions/runs/34716756266",
-  "builtAt": "2026-09-12T20:22:34Z"
+  "sourceCommit": "6beb21569c5bcadc0ba8483d57b78a370f156f2f",
+  "workflowRunURL": "https://github.com/Axisman3R/bug-bounty-ios-companion/actions/runs/34719329724",
+  "builtAt": "2026-09-12T21:27:42Z"
 }
